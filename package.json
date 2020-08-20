@@ -1,0 +1,26 @@
+{
+  "name": "curble-convert",
+  "version": "0.0.1",
+  "description": "Unit converter",
+  "type": "module",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherBilg/curble-convert.git"
+  },
+  "keywords": [
+    "curble",
+    "unit",
+    "convert",
+    "converter"
+  ],
+  "author": "CRB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChristopherBilg/curble-convert/issues"
+  },
+  "homepage": "https://github.com/ChristopherBilg/curble-convert#readme"
+}
